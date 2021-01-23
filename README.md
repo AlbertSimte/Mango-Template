@@ -1,1 +1,1 @@
-# Mango-Template
+# Mango
